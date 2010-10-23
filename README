@@ -15,7 +15,7 @@ Features:
 
 			ie. After folding
 
-					hello_world/0 (5 lines)--------------------
+					hello_world/1 (5 lines)--------------------
 
 		
 	2. Folding takes into account of empty lines between functions.
